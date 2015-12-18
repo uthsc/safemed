@@ -1,0 +1,15 @@
+
+nav {
+  .home-icon {
+    position: relative;
+    top: 6px;
+  &:hover {
+    color: #c51230;
+  }
+  }
+  a.parent-link.js-generated:after {
+    font-family: FontAwesome;
+    content: "\f149";
+    padding-left: .5rem;
+  }
+}
