@@ -75,7 +75,6 @@
                 <li class="has-dropdown">
                     <a href="#">Success Stories</a>
                     <ul class="dropdown">
-                        <li><a href="patient-successes.php">Patient Successes</a></li>
                         <li><a href="program-successes.php">Program Successes</a></li>
                     </ul>
                 </li>
