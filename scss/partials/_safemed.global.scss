@@ -194,6 +194,13 @@ a.link-excel.oddball:after {
   content: ' \f1c3';
   font-family: fontawesome;
 }
+
+ul.links-ppt a:after,
+a.link-ppt:after,
+a.link-ppt.oddball:after {
+  content: ' \f1c4';
+  font-family: fontawesome;
+}
 @media only screen and (max-width: 40em) {
   table * {
       font-size: 0.7rem !important;
