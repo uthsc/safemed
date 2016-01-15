@@ -29,7 +29,30 @@ header {
     font-size: 4vmin;
   }
 }
+.top-bar-section ul li ul li ul li {
 
+  a {
+    background-color: #444 !important;
+    &:hover{
+      background-color: scale_color($safemed-red, $lightness: -20%) !important;
+    }
+  &:before {
+    font-family: fontawesome;
+    font-size: 1rem;
+    content: '\f101';
+    color: $safemed-red;
+    padding-right: 1rem;
+    text-shadow: 1px 1px 0 #444;
+  }
+  }
+
+  &:first-of-type {
+    padding-top: 1px;
+  }
+  &:last-of-type {
+    padding-bottom: 1px;
+  }
+}
 @media only screen and (max-width: 40em) {
   header {
     &.hero {
