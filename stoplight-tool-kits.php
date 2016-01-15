@@ -20,6 +20,15 @@ include("template-top.php");
             <li>
                 <a href="documents/safemed-toolkit-letter-to-pcp.pdf">SafeMed Toolkit letter to PCP</a>
             </li>
+            <li>
+                <a class="link-word oddball" href="documents/safemed-discharge-checklist.docx">SafeMed Discharge Checklist</a>
+            </li>
+            <li>
+                <a href="documents/safemed-questions-to-ask-your-doctor.pdf">Questions To Ask Your Doctor</a>
+            </li>
+            <li>
+                <a href="documents/safemed-sample-patient-friendly-med-list.pdf">Sample Patient Friendly Med List</a>
+            </li>
         </ul>
     </div>
 </div>

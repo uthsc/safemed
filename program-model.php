@@ -120,6 +120,35 @@ include("template-top.php");
             </tr>
             </tfoot>
         </table>
+        <h2>Documents</h2>
+        <div class="row">
+            <div class="columns medium-4">
+                <h3>General</h3>
+                <ul>
+                    <li><a class="link-word" href="documents/safemed-protocols-and-procedures.docx">Protocols and Procedures</a></li>
+                    <li><a class="link-pdf" href="documents/safemed-recruitment-material.pdf">Recruitment Material</a></li>
+                </ul>
+            </div>
+            <div id="job-descriptions" class="columns medium-4">
+                <h3>Job Descriptions</h3>
+                <ul>
+                    <li><a class="link-word" href="documents/safemed-community-health-lpn-job-description.docx">Community Health LPN</a></li>
+                    <li><a class="link-word" href="documents/safemed-community-health-pharm-tech-job-description.docx">Community Health Pharm Tech</a></li>
+                    <li><a class="link-word" href="documents/safemed-nurse-leader-job-description.docx">Nurse Leader</a></li>
+                    <li><a class="link-word" href="documents/safemed-pharmacist-leader-job-description.docx">Pharmacist Leader</a></li>
+                    <li><a class="link-word" href="documents/safemed-physician-leader-job-description.docx">Physician Leader</a></li>
+                </ul>
+            </div>
+            <div id="staff-training" class="columns medium-4">
+                <h3>Staff Training</h3>
+                <ul>
+                    <li><a class="link-pdf" href="documents/safemed-ix-a-safe-med-program-mh-tools-by-dr-jordan.pdf">IX_a SAFE MED Program MH Tools by Dr Jordan</a></li>
+                    <li><a class="link-ppt" href="documents/safemed-model-overview-memphis-experience.pptx">Model Overview-Memphis Experience</a></li>
+                    <li><a class="link-word" href="documents/safemed-training-manual.docx">Training Manual</a></li>
+                </ul>
+
+            </div>
+        </div>
     </div>
 </div>
 <?php include("template-bottom.php"); ?>

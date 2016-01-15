@@ -69,7 +69,14 @@
                     <a href="#">About</a>
                     <ul class="dropdown">
                         <li><a href="about.php">About Us</a></li>
-                        <li><a href="program-model.php">Program Model</a></li>
+                        <li><a href="program-model.php">Program Model</a>
+                            <ul>
+                                <li><a class="link-word" href="documents/safemed-protocols-and-procedures.docx">Protocols and Procedures</a></li>
+                                <li><a class="link-pdf" href="documents/safemed-recruitment-material.pdf">Recruitment Material</a></li>
+                                <li><a href="program-model.php#job-descriptions">Job Descriptions</a></li>
+                                <li><a href="program-model.php#staff-training">Staff Training</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </li>
                 <li class="has-dropdown">
