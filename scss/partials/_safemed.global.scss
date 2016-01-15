@@ -164,6 +164,9 @@ table {
     font-size: 0.875rem;
   }
 }
+*:target {
+  background-color: #ededed;
+}
 ul.links-external a:after,
 a.link-external:after,
 a.link-external.oddball:after {
