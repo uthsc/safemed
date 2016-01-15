@@ -25,9 +25,7 @@ include("template-top.php");
                 <a href="documents/safemed-2nd-home-visit-checklist.pdf">2nd HomeVisit Checklist</a>
             </li>
             <li>
-                <a href="documents/safemed-telephone-follow-up-checklist.pdf">1st Telephone Follow Up Checklist</a>
-            </li>
-            <li>
+                <a href="documents/safemed-telephone-follow-up-checklist.pdf">Telephone Follow Up Checklist</a>
             </li>
             <li>
                 <a href="documents/phq-9.pdf">Patient Health Questionnaire 9 (PHQ-9)</a>
