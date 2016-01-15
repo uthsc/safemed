@@ -55,6 +55,8 @@
         $('a', '.links-word').attr('title', "Link to a Word Document").attr('aria-label', "Microsoft Word Icon");
         $('.link-excel').attr('title', "Link to a Excel Document").attr('aria-label', "Microsoft Excel Icon");
         $('a', '.links-excel').attr('title', "Link to a Excel Document").attr('aria-label', "Microsoft Excel Icon");
+        $('.link-ppt').attr('title', "Link to a PowerPoint Document").attr('aria-label', "Microsoft PowerPoint Icon");
+        $('a', '.links-excel').attr('title', "Link to a PowerPoint Document").attr('aria-label', "Microsoft PowerPoint Icon");
     });
 </script>
 <script src="bower_components/foundation/js/foundation.min.js"></script>
