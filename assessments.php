@@ -46,8 +46,7 @@ include("template-top.php");
             to effectively interact with complex patients. The following tool can be used to measure
             a change in patient perceptions before and after program implementation.</p>
 
-        <p><a class="link-external" href="http://uregina.ca/~hadjista/PatientContinuityofCare_Questionnaire.pdf">Patient Centered Care
-                Questionnaire</a></p>
+        <p><a class="link-external" href="http://uregina.ca/~hadjista/PatientContinuityofCare_Questionnaire.pdf">Patient Continuity of Care Questionnaire</a></p>
 
     </div>
 </div>
