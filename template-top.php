@@ -11,23 +11,7 @@
     <meta property="og:url" content="http://safemed.org"/>
     <meta property="og:description"
           content="SafeMed: A joint venture between University of Tennessee Health Science Center (UTHSC) and Methodist LeBonheur HealthCare"/>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-71447945-1', 'auto');
-        ga('send', 'pageview');
-
-    </script>
+    
     <title><?php echo $pagename; ?> | Project SafeMed</title>
     <link rel="shortcut icon" href="favicon.ico?v=5"/>
     <link rel="apple-touch-icon" href="images/safemed-icon.jpg">
@@ -95,7 +79,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="publications-bibliography.php">Publications/Bibliography</a>
+                    <a href="publications.php">Publications</a>
                 </li>
             </ul>
         </section>
