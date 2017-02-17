@@ -1,7 +1,7 @@
 <?php
-$pagename = 'About Us';
-include("template-top.php");
-?>
+        $pagename = 'About Us';
+        include("template-top.php");
+        ?>
 <div id="content" class="row">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
@@ -40,4 +40,4 @@ include("template-top.php");
         </div>
     </div>
 </div>
-<?php include("template-bottom.php"); ?>
+        <?php include("template-bottom.php"); ?>

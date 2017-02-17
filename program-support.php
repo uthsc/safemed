@@ -5,13 +5,10 @@ include("template-top.php");
 <div id="content" class="row">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
-        <p>The following tools were developed by our Nurse Practitioner. These tools can be used for a twofold
-            purpose:</p>
+        <p>The following tools were developed by our Nurse Practitioner. These tools can be used for a twofold purpose:</p>
         <ol>
-            <li>Patients can more easily self-monitor symptoms and discuss symptoms with the primary care physician.
-            </li>
-            <li>Primary care physicians can use the forms to monitor disease management, symptom exacerbations,
-            medication effectiveness, etc.</li>
+            <li>Patients can more easily self-monitor symptoms and discuss symptoms with the primary care physician.</li>
+            <li>Primary care physicians can use the forms to monitor disease management, symptom exacerbations, medication effectiveness, etc.</li>
         </ol>
         <ul class="links-excel">
             <li>
